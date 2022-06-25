@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ivan Dsilva</h1><br><h3 align="center">A passionate web developer from India</h3><br><br>- 🌱 I’m currently learning **React JS**<br><br>- 📫 How to reach me **ivandsilva31@outlook.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1LIgSJuenw2AT7IIwctQTGr0ft2b-Gd2J/view?usp=sharing](https://drive.google.com/file/d/1LIgSJuenw2AT7IIwctQTGr0ft2b-Gd2J/view?usp=sharing)<br><br><h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋, I'm Ivan Dsilva</h1><<h3 align="center">A passionate web developer from India</h3><br><br>- 🌱 I’m currently learning **React JS**<br><br>- 📫 How to reach me **ivandsilva31@outlook.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1LIgSJuenw2AT7IIwctQTGr0ft2b-Gd2J/view?usp=sharing](https://drive.google.com/file/d/1LIgSJuenw2AT7IIwctQTGr0ft2b-Gd2J/view?usp=sharing)<br><br><h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivan-dsilva/) 
