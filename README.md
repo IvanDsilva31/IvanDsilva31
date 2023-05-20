@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Dsilva</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Student;Avid+Learner)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Student;Avid+Learner)](https://git.io/typing-svg)</p>
 
 - 🌱 I’m currently learning **Flutter**
 
