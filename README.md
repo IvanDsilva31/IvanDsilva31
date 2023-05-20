@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandsilva31&show_icons=true&theme=highcontrast&locale=en" alt="ivandsilva31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivandsilva31&theme=dark" alt="ivandsilva31" /></p>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/ivandsilva31/ivandsilva31/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
