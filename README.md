@@ -32,5 +32,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/IvanDsilva31/IvanDsilva31/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<img src="https://raw.githubusercontent.com/IvanDsilva31/IvanDsilva31/output/snake.svg" alt="Snake animation" />
 </p>
