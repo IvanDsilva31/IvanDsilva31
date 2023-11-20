@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ivandsilva.netlify.app](https://ivandsilva.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ivandsilva.dev](https://ivandsilva.dev)
 
 - 📫 How to reach me **dsilva.ivan.02@gmail.com**
 
