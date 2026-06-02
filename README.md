@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Software+Developer;Computer+Engineering+Student;Avid+Learner)](https://git.io/typing-svg)
 </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://ivandsilva.dev](https://ivandsilva.dev)
 
